@@ -1,0 +1,12 @@
+{
+  "type": "plugin",
+  "domain": "discord_presence",
+  "stage": "experimental",
+  "name": "Discord Rich Presence",
+  "description": "Set Discord Rich Presence using headless sessions for Music Assistant playback",
+  "version": "1.0.0",
+  "codeowners": ["@veronoicc"],
+  "multi_instance": true,
+  "builtin": false,
+  "requirements": ["pkce>=1.0.3"]
+}
